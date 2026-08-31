@@ -11,12 +11,32 @@ Machine Learning, Computer Vision, Natural Language Processing, Multimodal Learn
 
 ## Education
 
-- **Sep 2024 – Jul 2026 | M.S. in Artificial Intelligence and Big Data Analytics**
-  - Novosibirsk State University, Novosibirsk, Russia
-  - CGPA: **4.5/5.0**
-- **Oct 2018 – Aug 2022 | B.S. in Computer Science**
-  - PMAS Arid Agriculture University, Rawalpindi, Pakistan
-  - CGPA: **3.12/4.0**
+## Education
+
+### M.S. in Artificial Intelligence and Big Data Analytics
+
+**Novosibirsk State University**  
+Novosibirsk, Russia  
+**Sep 2024 – Jul 2026**
+
+CGPA: **4.5/5.0**
+
+- Artificial Intelligence
+- Machine Learning
+- Big Data Analytics
+- Natural Language Processing
+- Computer Vision
+- Scientific Information Extraction
+
+---
+
+### B.S. in Computer Science
+
+**PMAS Arid Agriculture University Rawalpindi**  
+Rawalpindi, Pakistan  
+**Oct 2018 – Aug 2022**
+
+CGPA: **3.12/4.0**
 
 ## Technical Skills
 
