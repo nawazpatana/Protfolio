@@ -9,7 +9,7 @@ nawazish:
     Information Extraction, Knowledge Graphs, and Trustworthy AI.
 
   picture:
-    path:            /assets/img/profile-monogram.svg
+    path:            /assets/img/profile.jpg
     srcset:
       1x:            /assets/img/profile-monogram.svg
       2x:            /assets/img/profile-monogram.svg
