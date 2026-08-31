@@ -1,0 +1,22 @@
+# Primary author profile. Keep this consistent with `author` in `_config.yml`.
+nawazish:
+  name:              Nawazish Hussain
+  email:             nawazishpatana@gmail.com
+  about:             |
+    AI researcher at the Stream Data Analytics and Machine Learning Lab,
+    Novosibirsk State University. My research interests include Machine Learning,
+    Computer Vision, Natural Language Processing, Multimodal Learning, Biomedical AI,
+    Information Extraction, Knowledge Graphs, and Trustworthy AI.
+
+  picture:
+    path:            /assets/img/profile-monogram.svg
+    srcset:
+      1x:            /assets/img/profile-monogram.svg
+      2x:            /assets/img/profile-monogram.svg
+
+  social:
+    x:               nawazpatana
+    github:          nawazpatana
+    email:           nawazishpatana@gmail.com
+    linkedin:        nawazpatana
+    download:        https://nawazpatana.github.io/profile/assets/files/Nawazish_Hussain_CV.pdf
