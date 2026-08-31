@@ -30,7 +30,7 @@ description:           >
   knowledge graphs, multimodal learning, and trustworthy AI.
 
 # A shorter description for the sidebar.
-tagline:               AI Researcher | M.S. AI & Big Data Analytics
+tagline:              M.S. AI & Big Data Analytics
 
 # A list of keywords for your blog
 keywords:              [Artificial Intelligence, Machine Learning, Natural Language Processing, Computer Vision, Biomedical AI, Information Extraction, Knowledge Graphs, Multimodal Learning, Trustworthy AI]
@@ -49,7 +49,7 @@ author:
     Research interests include Machine Learning, Natural Language Processing, Computer Vision,
     Biomedical AI, Information Extraction, Knowledge Graphs, Multimodal Learning, and Trustworthy AI.
   picture:
-    path:               /assets/img/profile-monogram.svg
+    path:               /assets/img/profile.jpg
   social:
     x:                  nawazpatana
     github:             nawazpatana
