@@ -58,8 +58,6 @@ CGPA: **3.12/4.0**
 - Prepare experiments, results, and research manuscripts for scientific publication.
 - Work on scientific literature analysis, information extraction, and biomedical AI.
 
----
-
 ### IT Trainer
 
 **Government of Gilgit Baltistan**  
