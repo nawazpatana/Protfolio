@@ -8,16 +8,27 @@ hide_description: true
 I am **Nawazish Hussain**, an AI researcher at the **Stream Data Analytics and Machine Learning Lab, Novosibirsk State University, Russia**. My research interests include **Machine Learning, Computer Vision, Natural Language Processing, Multimodal Learning, Biomedical AI, Information Extraction, Knowledge Graphs, and Trustworthy AI**.
 {:.lead}
 
-[**Download CV (PDF)**]({{ '/assets/files/Nawazish_Hussain_CV.pdf' | relative_url }}) · [GitHub](https://github.com/nawazpatana) · [LinkedIn](https://www.linkedin.com/in/nawazpatana/) · [Email](mailto:nawazishpatana@gmail.com)
+[**Download CV (PDF)**]({{ 'assets/files/Nawazish_Hussain_CV.pdf' | relative_url }}) · [GitHub](https://github.com/nawazpatana) · [LinkedIn](https://www.linkedin.com/in/nawazpatana/) · [Email](mailto:nawazishpatana@gmail.com)
 
 ## Education
 
-- **Sep 2024 – Jul 2026 | M.S. in Artificial Intelligence and Big Data Analytics**
-  - Novosibirsk State University, Novosibirsk, Russia
-  - CGPA: **4.5/5.0**
-- **Oct 2018 – Aug 2022 | B.S. in Computer Science**
-  - PMAS Arid Agriculture University, Rawalpindi, Pakistan
-  - CGPA: **3.12/4.0**
+### M.S. in Artificial Intelligence and Big Data Analytics
+
+**Novosibirsk State University**  
+Novosibirsk, Russia  
+**Sep 2024 – Jul 2026**
+
+CGPA: **4.5/5.0**
+
+---
+
+### B.S. in Computer Science
+
+**PMAS Arid Agriculture University Rawalpindi**  
+Rawalpindi, Pakistan  
+**Oct 2018 – Aug 2022**
+
+CGPA: **3.12/4.0**
 
 ## Publications and Research Outputs
 
@@ -37,17 +48,49 @@ I am **Nawazish Hussain**, an AI researcher at the **Stream Data Analytics and M
 
 ## Professional Experience
 
-- **Nov 2025 – Current | Researcher, Stream Data Analytics and Machine Learning Lab**
-  - Conduct independent research in Machine Learning, NLP, and Computer Vision.
-  - Develop and evaluate AI models and prepare research for publication.
-- **Apr 2024 – Sep 2024 | IT Trainer, Government of Gilgit Baltistan**
-  - Delivered Python training through practical programming exercises and project-based learning.
-  - Mentored learners in problem solving, algorithmic thinking, and software development fundamentals.
-- **Jun 2022 – May 2024 | Software Developer, Softify Technologies**
-  - Developed Android applications across multiple sectors with API integration and AI-enabled features.
-  - Contributed to application design, implementation, testing, and deployment workflows.
-- **Mar 2019 – Sep 2019 | Internee, Sina Institute of Networks and Aesthetics**
-  - Provided technical support, system setup, maintenance, troubleshooting, and user training.
+### Researcher
+
+**Stream Data Analytics and Machine Learning Lab**  
+**Nov 2025 – Present**
+
+- Conduct independent research in **Machine Learning, Natural Language Processing, and Computer Vision**.
+- Develop and evaluate AI models.
+- Prepare experiments, results, and research manuscripts for scientific publication.
+- Work on scientific literature analysis, information extraction, and biomedical AI.
+
+---
+
+### IT Trainer
+
+**Government of Gilgit Baltistan**  
+**Apr 2024 – Sep 2024**
+
+- Delivered Python programming training through practical exercises and project-based learning.
+- Mentored learners in problem solving, algorithmic thinking, and software development fundamentals.
+- Supported students in developing programming and technical skills.
+
+---
+
+### Software Developer
+
+**Softify Technologies**  
+**Jun 2022 – May 2024**
+
+- Developed Android applications across multiple sectors.
+- Integrated APIs and AI-enabled functionality into applications.
+- Contributed to application design, implementation, testing, debugging, and deployment.
+- Worked with databases, mobile interfaces, and backend services.
+
+---
+
+### Internee
+
+**Sina Institute of Networks and Aesthetics**  
+**Mar 2019 – Sep 2019**
+
+- Provided technical support and system setup.
+- Assisted with system maintenance and troubleshooting.
+- Supported user training and general IT-related activities.
 
 ## Academic Projects
 
