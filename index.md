@@ -8,7 +8,7 @@ hide_description: true
 I am **Nawazish Hussain**, an AI researcher at the **Stream Data Analytics and Machine Learning Lab, Novosibirsk State University, Russia**. My research interests include **Machine Learning, Computer Vision, Natural Language Processing, Multimodal Learning, Biomedical AI, Information Extraction, Knowledge Graphs, and Trustworthy AI**.
 {:.lead}
 
-[**Download CV (PDF)**]({{ '[assets/files/Nawazish_Hussain_CV.pdf](https://nawazpatana.github.io/Protfolio/assets/files/Nawazish_Hussain_CV.pdf)' }}) · [GitHub](https://github.com/nawazpatana) · [LinkedIn](https://www.linkedin.com/in/nawazpatana/) · [Email](mailto:nawazishpatana@gmail.com)
+[**Download CV (PDF)**]({{ '/assets/files/Nawazish_Hussain_CV.pdf' | relative_url  }}) · [GitHub](https://github.com/nawazpatana) · [LinkedIn](https://www.linkedin.com/in/nawazpatana/) · [Email](mailto:nawazishpatana@gmail.com)
 
 ---
 ## Education
