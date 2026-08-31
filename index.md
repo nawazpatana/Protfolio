@@ -9,8 +9,8 @@ I am **Nawazish Hussain**, an AI researcher at the **Stream Data Analytics and M
 {:.lead}
 
 [**Download CV (PDF)**]({{ 'assets/files/Nawazish_Hussain_CV.pdf' | relative_url }}) · [GitHub](https://github.com/nawazpatana) · [LinkedIn](https://www.linkedin.com/in/nawazpatana/) · [Email](mailto:nawazishpatana@gmail.com)
----
 
+---
 ## Education
 
 ### M.S. in Artificial Intelligence and Big Data Analytics
@@ -28,8 +28,8 @@ Rawalpindi, Pakistan
 **Oct 2018 – Aug 2022**
 
 CGPA: **3.12/4.0**
----
 
+---
 ## Publications and Research Outputs
 
 ### Accepted / Presented
