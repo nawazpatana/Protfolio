@@ -9,6 +9,7 @@ I am **Nawazish Hussain**, an AI researcher at the **Stream Data Analytics and M
 {:.lead}
 
 [**Download CV (PDF)**]({{ 'assets/files/Nawazish_Hussain_CV.pdf' | relative_url }}) · [GitHub](https://github.com/nawazpatana) · [LinkedIn](https://www.linkedin.com/in/nawazpatana/) · [Email](mailto:nawazishpatana@gmail.com)
+---
 
 ## Education
 
@@ -20,8 +21,6 @@ Novosibirsk, Russia
 
 CGPA: **4.5/5.0**
 
----
-
 ### B.S. in Computer Science
 
 **PMAS Arid Agriculture University Rawalpindi**  
@@ -29,6 +28,7 @@ Rawalpindi, Pakistan
 **Oct 2018 – Aug 2022**
 
 CGPA: **3.12/4.0**
+---
 
 ## Publications and Research Outputs
 
@@ -45,6 +45,8 @@ CGPA: **3.12/4.0**
 ### Research Dataset
 
 - **Hussain, N.** Research dataset published on Zenodo. DOI: [10.5281/zenodo.20364566](https://doi.org/10.5281/zenodo.20364566)
+
+---
 
 ## Professional Experience
 
@@ -67,8 +69,6 @@ CGPA: **3.12/4.0**
 - Mentored learners in problem solving, algorithmic thinking, and software development fundamentals.
 - Supported students in developing programming and technical skills.
 
----
-
 ### Software Developer
 
 **Softify Technologies**  
@@ -79,7 +79,6 @@ CGPA: **3.12/4.0**
 - Contributed to application design, implementation, testing, debugging, and deployment.
 - Worked with databases, mobile interfaces, and backend services.
 
----
 
 ### Internee
 
@@ -89,6 +88,7 @@ CGPA: **3.12/4.0**
 - Provided technical support and system setup.
 - Assisted with system maintenance and troubleshooting.
 - Supported user training and general IT-related activities.
+---
 
 ## Academic Projects
 
@@ -104,6 +104,8 @@ CGPA: **3.12/4.0**
 - **[Quran Application](https://github.com/nawazpatana/Quran-App)** — Cross-platform Flutter application with Quran reading, prayer times, Qibla direction, Azkar, Duas, GPS features, and SQLite storage.
 - **[Hajj & Umrah Guide App](https://github.com/nawazpatana/Hajj-Umrah-App)** — Flutter application with pilgrimage guidance, Duas, prayer times, Qibla, weather, hotel/transportation information, visa information, and emergency contacts.
 
+---
+
 ## Technical Skills
 
 - **Programming:** Python, C++, PHP, JavaScript
@@ -114,6 +116,7 @@ CGPA: **3.12/4.0**
 - **Development Tools:** Visual Studio Code, Android Studio, XAMPP
 - **Operating Systems:** Unix/Linux, Windows
 
+---
 ## Certifications
 
 - [Ethics of Artificial Intelligence](https://www.coursera.org/account/accomplishments/verify/X8ZNP857SP46) — Coursera (2023)
