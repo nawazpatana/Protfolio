@@ -3,14 +3,13 @@ layout: page
 title: "Academics"
 description: "Education, research interests, skills, and certifications."
 permalink: /academics/
----
 
+---
 ## Research Interests
 
 Machine Learning, Computer Vision, Natural Language Processing, Multimodal Learning, Biomedical AI, Information Extraction, Knowledge Graphs, and Trustworthy AI.
 
-## Education
-
+---
 ## Education
 
 ### M.S. in Artificial Intelligence and Big Data Analytics
@@ -23,12 +22,7 @@ CGPA: **4.5/5.0**
 
 - Artificial Intelligence
 - Machine Learning
-- Big Data Analytics
-- Natural Language Processing
-- Computer Vision
-- Scientific Information Extraction
 
----
 
 ### B.S. in Computer Science
 
@@ -38,6 +32,7 @@ Rawalpindi, Pakistan
 
 CGPA: **3.12/4.0**
 
+---
 ## Technical Skills
 
 - **Programming:** Python, C++, PHP, JavaScript
@@ -48,6 +43,7 @@ CGPA: **3.12/4.0**
 - **Development Tools:** Visual Studio Code, Android Studio, XAMPP
 - **Operating Systems:** Unix/Linux, Windows
 
+---
 ## Certifications
 
 - [Ethics of Artificial Intelligence](https://www.coursera.org/account/accomplishments/verify/X8ZNP857SP46) — Coursera (2023)
