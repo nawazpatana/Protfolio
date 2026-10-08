@@ -42,9 +42,9 @@ CGPA: **3.12/4.0**
 
 ### Accepted for Presentation
 
-- **Hussain, N.** [*ClaimGraph-BT: Automated Claim Extraction and Cross-Paper Comparison for Brain Tumor AI Literature*](https://openreview.net/forum?id=kQmmd8M1Jy&noteId=kQmmd8M1Jy). **AIST Conference 2026**, accepted for presentation, scheduled for Oct. 18, 2026.
+- **Hussain, N.** [*ClaimGraph-BT: Automated Claim Extraction and Cross-Paper Comparison for Brain Tumor AI Literature*](https://aistconf.org/program/accepted/). **AIST Conference 2026**, accepted for presentation, scheduled for Oct. 18, 2026.
 
-- **Hussain, N., et al.** [*MedSETNER: A Benchmark Corpus for Extracting Dataset Names from Medical Scientific Literature*](https://openreview.net/forum?id=W4M3kcTgjE). **AIST Conference 2026**, accepted for presentation, scheduled for Oct. 18, 2026.
+- **Hussain, N., et al.** [*MedSETNER: A Benchmark Corpus for Extracting Dataset Names from Medical Scientific Literature*](https://aistconf.org/program/accepted/). **AIST Conference 2026**, accepted for presentation, scheduled for Oct. 18, 2026.
 
 ### Research Dataset
 
