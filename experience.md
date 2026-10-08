@@ -1,3 +1,4 @@
+
 ---
 layout: page
 title: "Experience"
@@ -7,11 +8,19 @@ permalink: /experience/
 
 ## Research Experience
 
-### Researcher, Stream Data Analytics and Machine Learning Lab
-**Nov 2025 – Current**
+### Research Intern, Multimodal AI & Explainable Visual Art Analysis
+**National Taichung University of Education, Taiwan**  
+**Sep 2026 – Present**
 
-- Conduct independent research in Machine Learning, NLP, and Computer Vision.
-- Develop and evaluate AI models and prepare research for publication.
+- Research multimodal AI for emotion recognition and explainable aesthetic interpretation of visual art.
+- Develop ResNet50- and CLIP-based image–text models for artwork emotion classification using multimodal fusion.
+- Apply visual attribution and aesthetic feature analysis to generate evidence-grounded explanations of model predictions.
+
+### Researcher, Stream Data Analytics and Machine Learning Lab
+**Nov 2025 – Sep 2026**
+
+- Conducted independent research in Machine Learning, NLP, and Computer Vision.
+- Developed and evaluated AI models and prepared research for publication.
 
 ## Teaching / Training
 
@@ -33,3 +42,4 @@ permalink: /experience/
 **Mar 2019 – Sep 2019**
 
 - Provided technical support, system setup, maintenance, troubleshooting, and user training.
+
