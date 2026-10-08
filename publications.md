@@ -13,9 +13,9 @@ permalink: /publications/
 
 ## Accepted for Presentation
 
-- **Hussain, N.** *ClaimGraph-BT: Automated Claim Extraction and Cross-Paper Comparison for Brain Tumor AI Literature.* **AIST Conference 2026**, accepted for presentation, scheduled for Oct. 18, 2026. [OpenReview](https://openreview.net/forum?id=kQmmd8M1Jy&noteId=kQmmd8M1Jy)
+- **Hussain, N.** *ClaimGraph-BT: Automated Claim Extraction and Cross-Paper Comparison for Brain Tumor AI Literature.* **AIST Conference 2026**, accepted for presentation, scheduled for Oct. 18, 2026. (https://aistconf.org/program/accepted/)
 
-- **Hussain, N., et al.** *MedSETNER: A Benchmark Corpus for Extracting Dataset Names from Medical Scientific Literature.* **AIST Conference 2026**, accepted for presentation, scheduled for Oct. 18, 2026. [OpenReview](https://openreview.net/forum?id=W4M3kcTgjE)
+- **Hussain, N., et al.** *MedSETNER: A Benchmark Corpus for Extracting Dataset Names from Medical Scientific Literature.* **AIST Conference 2026**, accepted for presentation, scheduled for Oct. 18, 2026. (https://aistconf.org/program/accepted/)
 
 ## Research Dataset
 
